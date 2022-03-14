@@ -2,6 +2,7 @@
 ###  Hi , I'm Nasir Uddin
 #### I'm web designer and developer From Bangladesh
 Here are some ideas about me:* - I'm currently studying in Computer Science and Engineering.
+ The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -28,7 +29,7 @@ Here are some ideas about me:* - I'm currently studying in Computer Science and 
 - 👯 I’m looking to collaborate on github  
 - 🤔 I’m looking for help with YouTube  
 - 💬 Ask me about web development  
-- 📫 How to reach me: nasir.joypurhat@gmail.com 
+- 📫 How to reach me: nasiruddin9605@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nasir369)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nasir369)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nasir369)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nasir369cse/)  
