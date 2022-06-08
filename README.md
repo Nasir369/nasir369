@@ -1,7 +1,7 @@
 
 ###  Hi , I'm Nasir Uddin
 #### I'm web designer and developer From Bangladesh
-Here are some ideas about me:* - I'm currently studying in Computer Science and Engineering.
+Here are some ideas about me:* - Bsc in Computer Science and Engineering.
  The only way to become a clever programmer is to: Practice. Practice. Practice. Code. Code. Code !
 
 <h3 align="left">Languages and Tools:</h3>
